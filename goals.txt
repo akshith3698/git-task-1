@@ -1,0 +1,2 @@
+Goal 1: Master Git
+Goal 2: Master NumPy
